@@ -22,5 +22,5 @@ berryc edge_lock   "true"
 berryc set_font    "Lato-Black"
 
 # Application autostarts
-$HOME/.config/berry/lb.sh | lemonbar -p -b
+$HOME/.config/berry/lb.sh | lemonbar -p -b &
 nitrogen --restore
