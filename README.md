@@ -7,9 +7,10 @@ This is my first rice, so there may be some issues.
 
 ## Packages required:
 
-The packages used are: `lxappearance, lemonbar, rofi, nitrogen, sxhkd`
+The packages used are: `lxappearance, lemonbar, rofi, nitrogen, sxhkd, nemo, xed, berry`
 I am using the `Lato` font.
-These can be installed using  `apt`, and are likely in other distro's repos as well.  
+These (except berry) can be installed using  `apt`, and are likely in other distro's repos as well.
+Just copy all the folders in **this repo** to your `~/.config` directory, and bob's your uncle!
 
 ## Thanks!
 
