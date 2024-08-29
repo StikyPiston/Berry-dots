@@ -1,0 +1,26 @@
+#!/bin/bash
+
+
+# Set decoration geometry
+berryc border_width       6
+berryc inner_border_width 2
+berryc title_height       30
+berryc top_gap            30
+
+# Set decoration colors
+berryc focus_color         29E3E2
+berryc unfocus_color       293EE3
+berryc inner_focus_color   29E3E1
+berryc inner_unfocus_color 293EE2
+berryc text_focus_color    ffffff
+berryc text_unfocus_color  eeeeee
+
+# Other options
+berryc smart_place "true"
+berryc draw_text   "true"
+berryc edge_lock   "true"
+berryc set_font    "Lato-Black"
+
+# Application autostarts
+$HOME/.config/berry/lb.sh | lemonbar -p -b
+nitrogen --restore
