@@ -15,6 +15,13 @@ These (except berry) can be installed using  `apt`, and are likely in other dist
 Just copy all the folders in **this repo** to your `~/.config` directory, and bob's your uncle!
 The wallpaper is from the `Linux Mint Ulyana/Ulyssa` artwork.
 
+## Installation
+
+1. Install berry, by following the instructions on **https://berrywm.org**
+2. Install the packages and fonts listed in the above chapter
+3. Run the **`install.sh`** located at the root of this repo
+4. Log out and select the **`berry`** session 
+
 ## Thanks!
 
 I hope you enjoy my rice!  
