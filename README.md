@@ -1,3 +1,5 @@
+![Image of the final rice](/berry_initial_rice.png)
+
 # Berry-dots
 
 My personal **dotfiles** for [Berrywm](https://berrywm.org)!  
@@ -11,6 +13,7 @@ The packages used are: `lxappearance, lemonbar, rofi, nitrogen, sxhkd, nemo, xed
 I am using the `Lato` font.
 These (except berry) can be installed using  `apt`, and are likely in other distro's repos as well.
 Just copy all the folders in **this repo** to your `~/.config` directory, and bob's your uncle!
+The wallpaper is from the `Linux Mint Ulyana/Ulyssa` artwork.
 
 ## Thanks!
 
