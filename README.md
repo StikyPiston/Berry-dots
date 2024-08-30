@@ -17,6 +17,7 @@ The wallpaper is from the `Linux Mint Ulyana/Ulyssa` artwork.
 
 ## Installation
 
+****BACK UP YOUR DOTFILES. ANY DATA LOSS IS NOT MY PROBLEM****
 1. Install berry, by following the instructions on **https://berrywm.org**
 2. Install the packages and fonts listed in the above chapter
 3. Run the **`install.sh`** located at the root of this repo
