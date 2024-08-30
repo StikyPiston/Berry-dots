@@ -1,0 +1,10 @@
+#!/bin/sh
+
+option=$(printf "Shutdown\nReboot\nLogout" | rofi -dmenu -i)
+
+case "$option" in
+	"Shutdown") shutdown now ;;
+	"Reboot") reboot ;;
+	"Logout") pkill berry ;;
+	*) exit 1 ;;
+esac
