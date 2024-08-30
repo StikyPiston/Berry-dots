@@ -1,4 +1,4 @@
-![Image of the final rice](/berry_initial_rice.png)
+![Image of the final rice](/berry_inital_rice.png)
 
 # Berry-dots
 
