@@ -21,7 +21,8 @@ The wallpaper is from the `Linux Mint Ulyana/Ulyssa` artwork.
 1. Install berry, by following the instructions on **https://berrywm.org**
 2. Install the packages and fonts listed in the above chapter
 3. Run the **`install.sh`** located at the root of this repo
-4. Log out and select the **`berry`** session 
+4. Add the `~/.local/bin` directory to your ***PATH***. This can be done in your `.bashrc` file
+5. Log out and select the **`berry`** session 
 
 ## Thanks!
 
